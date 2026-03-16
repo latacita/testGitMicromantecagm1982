@@ -7,6 +7,12 @@
  Paso   Acción                       Notas
 ====== ============================ ================================
  (2)    Añadir nombre y apellidos
+ (3)    git add bitacora.txt / git commit --m "Paso2: añadir nombre y apellidos"
+ (4)    git branch RamaA
+ (5)    git branch RamaB
+ (6)    git checkout RamaA
+ (8)    git add direccion.txt /  git commit --m "Paso7: Añadir fichero direccion"
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
  (12)   git checkout master
@@ -15,3 +21,6 @@
                                     Deshago los conflictos git add direccion.txt y git commit --m "Deshago conflictos"
  (25)   el merge será recursivo no fast fordward
 >>>>>>> RamaD
+=======
+ 
+>>>>>>> RamaC
