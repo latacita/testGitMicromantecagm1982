@@ -19,8 +19,15 @@
  (13)   git merge RamaA             Fast-forward
  (14)   git merge RamaB             Conflicto
                                     Deshago los conflictos git add direccion.txt y git commit --m "Deshago conflictos"
- (25)   el merge será recursivo no fast fordward
+ (25)   el merge será recursivo no fast fordward 
+ (26)   git checkout master
+        git merge RamaD -- corrijo el conflicto de bitacora.  git add bitacora.txt / git commit --m "Corrijo el conflicto"
+ (27)   git merge RamaC -- corrijo los nuevos conflictos.     git add bitacora.txt / git commit --m "Corrijo el conflicto con la ramaC"
+ (28)   git tag Conseguido
 >>>>>>> RamaD
+
+
+
 =======
  
 >>>>>>> RamaC
