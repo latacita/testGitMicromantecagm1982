@@ -7,3 +7,7 @@
  Paso   Acción                       Notas
 ====== ============================ ================================
  (2)    Añadir nombre y apellidos
+ (12)   git checkout master
+ (13)   git merge RamaA             Fast-forward
+ (14)   git merge RamaB             Conflicto
+                                    Deshago los conflictos git add direccion.txt y git commit --m "Deshago conflictos"
