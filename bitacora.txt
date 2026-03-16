@@ -24,6 +24,8 @@
         git merge RamaD -- corrijo el conflicto de bitacora.  git add bitacora.txt / git commit --m "Corrijo el conflicto"
  (27)   git merge RamaC -- corrijo los nuevos conflictos.     git add bitacora.txt / git commit --m "Corrijo el conflicto con la ramaC"
  (28)   git tag Conseguido
+ (30)   git push origin / git git push --tag
+
 >>>>>>> RamaD
 
 
