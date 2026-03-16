@@ -7,3 +7,4 @@
  Paso   Acción                       Notas
 ====== ============================ ================================
  (2)    Añadir nombre y apellidos
+ (25)   el merge será recursivo no fast fordward
